@@ -21,3 +21,13 @@ Alternatives & Tutorials
 ------------------------
 
 - [Invent With Python](https://inventwithpython.com/chapter10.html) - _Tic Tac Toe walkthrough by Al Sweigart_
+
+How To Contribute
+-----------------
+
+Please, run [Flake8](http://flake8.pycqa.org/) and, optionally, [Pylint](
+http://pylint.readthedocs.io/) before committing changes and opening a PR:
+```
+$ flake8
+$ pylint *.py
+```
