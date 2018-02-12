@@ -13,9 +13,11 @@ python3 tictactoe_humans.py
 ```
 python3 tictactoe_computer.py
 ```
+```
+python3 tictactoe_nice.py
+```
 
 Alternatives & Tutorials
 ------------------------
 
-- [Tic Tac Toe with nicer user input](https://github.com/ActiveState/code/tree/master/recipes/Python/576661_TicTacToe)
-- [Invent With Python (tutorial)](https://inventwithpython.com/chapter10.html) by Al Sweigart
+- [Invent With Python](https://inventwithpython.com/chapter10.html) - _Tic Tac Toe walkthrough by Al Sweigart_
