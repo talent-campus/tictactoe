@@ -6,7 +6,13 @@ A few simple, text-based Tic Tac Toe game implementations. To help you learn Pyt
 Instructions
 ------------
 
-Run the programs using Python, e.g.
+Clone this repository to your local disk using Git, e.g.
+```
+git clone https://github.com/talent-campus/tictactoe.git
+cd tictactoe
+```
+
+Then run the programs from your terminal using Python, e.g.
 ```
 python3 tictactoe_humans.py
 ```
